@@ -1,0 +1,17 @@
+{
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "editor.fontFamily": "monospace",
+  "files.insertFinalNewline": true,
+  "files.hotExit": "onExitAndWindowClose",
+  "docker-linter.perl.enable": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "debug.allowBreakpointsEverywhere": true,
+  "debug.inlineValues": true,
+  "editor.renderLineHighlight": "line",
+  "editor.wordWrap": true,
+  "editor.wrappingColumn": 100
+}
